@@ -1,3 +1,4 @@
+<meta charset="UTF-8">
 # Gitin käyttöohje
 
 Tässä oppaassa opetellaan käyttämään Git-versionhallintaa.
@@ -49,7 +50,7 @@ Jos sinulla on paikallinen repository nimeltä **master**, voita antaa seuraavat
 
 
 `
-git remote add origin *https://linkkietärepositoryyn*
+git remote add origin https://linkkietärepositoryyn
 git branch -M main
 git push -u origin main
 `
