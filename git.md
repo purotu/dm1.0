@@ -21,3 +21,5 @@ git status
 
 git add tiedosto1.txt tiedosto2.txt
 git add .
+
+# Jotain uutta
