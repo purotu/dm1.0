@@ -31,3 +31,7 @@ Jos -m valitsin unohtuu ja joudut Vim-editoriin, niin sitten:
 2. Kirjota viesti.
 3. Esc-näppäimellä pois kirjoitustilasta
 4. Komennolla :wq poistut editorista ja tallennat viestin.
+
+## Etärepositoryn käyttäminen
+
+git remote add etärepon-linkki
